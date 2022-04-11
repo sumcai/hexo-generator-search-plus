@@ -1,0 +1,36 @@
+{
+  "name": "hexo-generator-search-plus",
+  "version": "1.0.0",
+  "description": "Seach generator plugin for Hexo",
+  "directories": {
+    "lib": "./lib"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "dependencies": {
+    "nunjucks": "^3.0.1",
+    "utils-merge": "^1.0.0"
+  },
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumcai/hexo-generator-search-plus.git"
+  },
+  "keywords": [
+    "hexo",
+    "search"
+  ],
+  "author": "sumcai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sumcai/hexo-generator-search-plus/issues"
+  },
+  "homepage": "https://github.com/sumcai/hexo-generator-search-plus#readme"
+}
